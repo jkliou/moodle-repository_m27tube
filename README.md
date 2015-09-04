@@ -32,4 +32,8 @@ And that's all, just a bit of dark hacking with an apparently successful result.
 - All the authorships and credits of the original authors has been kept. Yay for them.
 - I'd love to declare this distributed under the 3-Clause BSD license but I'm afraid, this is GPL v3.
 
+## Bonus
+
+- It seems that the plugin is also working under Moodle 2.6, but please, please, please... consider upgrading ASAP. It's really unsecure to run fully unsupported versions. At very least jump to the LTS (long term support) guard's van.
+
 Enjoy, ciao, stronk7 :-)
