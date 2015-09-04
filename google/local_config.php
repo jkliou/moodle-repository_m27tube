@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 global $CFG, $SITE;
 require_once($CFG->libdir . '/weblib.php');
-require_once($CFG->libdir . '/google/curlio.php');
+require_once($CFG->dirroot . '/repository/m27tube/google/curlio.php');
 
 make_temp_directory('googleapi');
 $GoogleConfigTempDir = $CFG->tempdir . '/googleapi';
