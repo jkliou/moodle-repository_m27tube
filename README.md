@@ -18,9 +18,9 @@ And that's all, just a bit of dark hacking with an apparently successful result.
 
 - Manually:
   - [Download](https://github.com/stronk7/moodle-repository_m27tube/archive/master.zip) the plugin, unzip it and rename the main folder to `m27tube`.
-  - Copy the `m27tube` folder under the `repository` folder of Moodle.
+  - Copy the `m27tube` folder under the `repository` folder of your site.
 - Using git:
-  - Clone this repository under the `repository/m27tube`.
+  - Clone this repository in the `repository/m27tube` folder of your site.
 - Visit the `admin/index.php` page, an upgrade should happen, with the repository being installed and enabled by default.
 - Go to the plugin settings page and follow the instructions to set the, now required, **Google API**.
 - Try it!
