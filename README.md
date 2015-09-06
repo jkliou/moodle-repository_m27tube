@@ -17,7 +17,7 @@ And that's all, just a bit of dark hacking with an apparently successful result.
 ## Installation instructions
 
 - Manually:
-  - [Download](https://github.com/stronk7/moodle-repository_m27tube/archive/master.zip) the plugin, unzip it and rename the main folder to `m27tube`.
+  - [Download](https://github.com/stronk7/moodle-repository_m27tube/releases/latest) the plugin, uncompress it and rename the main folder to `m27tube`.
   - Copy the `m27tube` folder under the `repository` folder of your site.
 - Using git:
   - Clone this repository in the `repository/m27tube` folder of your site.
